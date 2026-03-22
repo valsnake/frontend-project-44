@@ -1,0 +1,16 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "brain games",
+  "type": "module",
+  "author": "valsnake",
+  "license": "ISC",
+  "bin": {
+  "brain-games": "bin/brain-games.js"
+},
+  "dependencies": {
+    "lodash": "^4.17.23"
+  }
+}
+
+
